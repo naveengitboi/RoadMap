@@ -8,11 +8,10 @@
 
 
 ## **Section One**  
-### Key Topics:  
 - **HTML**: Structure of web pages.  
   - Semantic HTML  
   - Forms and Validations  
-  ---
+
     ### References
     _you can refere any one video from this list, and complete it fully_
     - [x] [Apan College](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmm)  
@@ -25,7 +24,7 @@
 
   ---
 - **CSS**: Styling web pages.  
-  - **Basics**
+  - Basics
     - Selectors (Universal selector, By Tags, Classes, ID)
     - colors
     - fonts
@@ -34,23 +33,22 @@
     - height
     - border
     - border-radius
-  - **Box Model** *(Very Important)*
+  - Box Model *(Very Important)*
     - margin
     - padding
     - border box
     - Position *(very Important)*
-  - **Units**
+  - Units
     - Percentage(%)
     - viewports
     - px 
     - ch
-  - **Flexbox and Grid** *(Very Important)*
+  - Flexbox and Grid *(Very Important)*
     - display
     - gap
     - flex direction
     - justify content
     - align items
-  - **Animations**( You Can Do Later)
   - **Media Queries for responsiveness**
     
     ### References
@@ -63,9 +61,16 @@
 
     * [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
 
-    - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
 
     * [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
+
+
+**CSS Advanced**
+  - Before, After tags
+  - nth child
+  - Animations( You Can Do Later)
+
+    - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
 
   ---
 - **JavaScript**: Making web pages interactive.  
@@ -87,13 +92,6 @@
     - change
     - focus
     - blur
-  - API Fetching
-    - Promises
-    - async await
-  - Advanced (Skip at start)
-    - variable scope
-    - Hoisting
-    - Closures
   
     ### References
 
@@ -105,40 +103,57 @@
 
     - [x] [Map vs forEach](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1Hhttps://youtu.be/zdp0zrpKzIE?si=DB_aP7DVF2n3_bwOhttps://youtu.be/HQCZBkwEWys?si=q_rfJfFDhN2pKlxh)
 
-    - [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
-
-    - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
-
-    - [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
-
   ---
 
-### Tools:  
-- Code Editors (e.g., VS Code)  
-- Browser Developer Tools  
+## **Advanced JS**
+  - API Fetching (Do this concepts)
+    - Synchronous vs Asynchronous JS
+    - Promises
+    - Async Await
+  - Advanced (Skip at start)
+    - variable scope
+    - Hoisting
+    - Closures
 
+    ### References
+
+    - [x] [Promises](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocchttps://youtu.be/phWxA89Dy94?si=ZHidjHt8Z8-GU6nOhttps://youtu.be/5fb2aPlgoys?si=x0kq8wJsznTVLvxhttps://youtu.be/PoRJizFvM7s?si=sxWSxAbq-plCh6Uc)
+
+
+    - [x] [Promises Adv Concepts](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1Hhttps://youtu.be/zdp0zrpKzIE?si=DB_aP7DVF2n3_bwOhttps://youtu.be/1Z7FjG--F20?si=5GQAFVzSbTrPjSeY)
+
+
+
+    - [ ] [By Kevin Powell](https://youtu.be/3xYd9fJ_0Z8?si=8sA1-KFaCv3ps3cZ)
+
+    *Advanced Concepts You can do later for interviews*
+    - [x] [Adv js Playlist BY road side coder](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
 ---
 
 ## **2. Version Control & Collaboration**  
 ### Key Topics:  
+- **Command lines** (pro tip)
+  - Learn basic cmd lines
 - **Git**: Version control system basics.  
-  - Commit, Push, Pull, Branching  
-- **GitHub/GitLab**: Collaborative platforms.  
+  - Config, status, add, Commit, Push (At start you only need these)
+  - Branches, Pull, Rebase, Merge etc(You can do these later)
+- **GitHub**: Collaborative platforms. 
 
----
+    ### References
+    - [x] [Git & Github](https://youtu.be/apGV9Kg7ics?si=aitpDl5__cQvPKFC)
 
-## **3. Responsive Design**  
-### Key Topics:  
-- CSS Frameworks (e.g., Bootstrap, Tailwind CSS)  
-- Mobile-first Design  
 
----
+## **Projects Using HTML, CSS, JS**
 
-## **4. Advanced JavaScript**  
-### Key Topics:  
-- ES6+ Features (Arrow Functions, Promises, etc.)  
-- Asynchronous JavaScript (Fetch API, Async/Await)  
-- Module Bundlers (e.g., Webpack, Vite)  
+Do One project that includes
+- HTML, CSS (Obviously)
+- Responsive Desing
+- JS Events
+
+- [Frontend Practice](https://www.frontendpractice.com/)
+
+- [Frontend Mentor](https://www.frontendmentor.io/challenges)
+**Using Api Fetching do another project.**
 
 ---
 
