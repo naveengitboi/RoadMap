@@ -10,8 +10,14 @@
   - Forms and Validations  
   ---
     ### References
-    * [Apan College](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmm)
+    _you can refere any one video from this list, and complete it fully_
+    - [ ] [Apan College](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmm)  
+
+        or
+
     * [Bro Code 1 hour Lecture](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocc)
+
+    * [Forms By web dev simplified](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQN)
   ---
 - **CSS**: Styling web pages.  
   - Box Model  
