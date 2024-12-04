@@ -72,22 +72,44 @@
   - Variables, Loops, and Functions  
     - Learn ES6 Syntax
   - Learn Map, Filter and Reducers
-  - DOM Manipulation (Main Focus)
+  - map vs forEach
+  - DOM Manipulation (Main Focus as dev)
+    - DOM Tree
+    - Inspect Elements(Dev Tools)
+    - Element
+        - byClass
+        - byTag
+        - byId
+    - querySelector
+    - querySelectorAll
   - Events (Very very Important)
+    - click
+    - change
+    - focus
+    - blur
+  - API Fetching
+    - Promises
+    - async await
+  - Advanced (Skip at start)
+    - variable scope
+    - Hoisting
+    - Closures
   
     ### References
 
-    - [x] [Start with this](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmmhttps://youtu.be/yfoY53QXEnI?si=cxI-JHasqBOGQBpB)  
+    - [x] [Beginner for JS](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmmhttps://youtu.be/yfoY53QXEnI?si=cxI-JHasqBOGQBpBhttps://youtu.be/PkZNo7MFNFg?si=5HXE8NcjN0cJFVSr)  
 
-    - [x] [Flex Box CSS](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocchttps://youtu.be/phWxA89Dy94?si=ZHidjHt8Z8-GU6nO)
+    - [x] [DOM](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocchttps://youtu.be/phWxA89Dy94?si=ZHidjHt8Z8-GU6nOhttps://youtu.be/5fb2aPlgoys?si=x0kq8wJsznTVLvxT)
 
-    - [x] [Grid CSS](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1H)
+    - [x] [Map, Filter, Reducer](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1Hhttps://youtu.be/zdp0zrpKzIE?si=DB_aP7DVF2n3_bwO)
 
-    * [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
+    - [x] [Map vs forEach](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1Hhttps://youtu.be/zdp0zrpKzIE?si=DB_aP7DVF2n3_bwOhttps://youtu.be/HQCZBkwEWys?si=q_rfJfFDhN2pKlxh)
+
+    - [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
 
     - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
 
-    * [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
+    - [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
 
   ---
 
