@@ -1,6 +1,8 @@
 # Road Map For web development;
 *Desclaimer: This roadmap is based on my personal findings and experiences. While it reflects the journey I followed, it's essential to remember that everyone's path in web development is unique. Use this roadmap as a reference, not a strict guide. Adapt it to your learning style, interests, and goals. Always explore alternative approaches and find what works best for you.*
 
+*Whatever I followed playlist or video contains [x] mark to it*
+
 ---
 
 ## **Section One**  
@@ -11,7 +13,7 @@
   ---
     ### References
     _you can refere any one video from this list, and complete it fully_
-    - [ ] [Apan College](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmm)  
+    - [x] [Apan College](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmm)  
 
         or
 
