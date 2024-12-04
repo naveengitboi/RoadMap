@@ -1,9 +1,11 @@
 # Road Map For web development;
 *Desclaimer: This roadmap is based on my personal findings and experiences. While it reflects the journey I followed, it's essential to remember that everyone's path in web development is unique. Use this roadmap as a reference, not a strict guide. Adapt it to your learning style, interests, and goals. Always explore alternative approaches and find what works best for you.*
 
-*Whatever I followed playlist or video contains - [x] mark to it*
+*Whatever I followed playlist or video contains tick mark to it*
 
 ---
+
+
 
 ## **Section One**  
 ### Key Topics:  
@@ -19,16 +21,75 @@
 
     * [Bro Code 1 hour Lecture](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocc)
 
-    * [Forms By web dev simplified](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQN)
+    * [x] [Forms By web dev simplified](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQN)
+
   ---
 - **CSS**: Styling web pages.  
-  - Box Model  
-  - Flexbox and Grid  
-  - Media Queries for responsiveness  
+  - **Basics**
+    - Selectors (Universal selector, By Tags, Classes, ID)
+    - colors
+    - fonts
+    - sizes
+    - width
+    - height
+    - border
+    - border-radius
+  - **Box Model** *(Very Important)*
+    - margin
+    - padding
+    - border box
+    - Position *(very Important)*
+  - **Units**
+    - Percentage(%)
+    - viewports
+    - px 
+    - ch
+  - **Flexbox and Grid** *(Very Important)*
+    - display
+    - gap
+    - flex direction
+    - justify content
+    - align items
+  - **Animations**( You Can Do Later)
+  - **Media Queries for responsiveness**
+    
+    ### References
+
+    - [x] [Start with this](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmmhttps://youtu.be/yfoY53QXEnI?si=cxI-JHasqBOGQBpB)  
+
+    - [x] [Flex Box CSS](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocchttps://youtu.be/phWxA89Dy94?si=ZHidjHt8Z8-GU6nO)
+
+    - [x] [Grid CSS](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1H)
+
+    * [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
+
+    - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
+
+    * [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
+
+  ---
 - **JavaScript**: Making web pages interactive.  
   - Variables, Loops, and Functions  
-  - DOM Manipulation  
-  - Events  
+    - Learn ES6 Syntax
+  - Learn Map, Filter and Reducers
+  - DOM Manipulation (Main Focus)
+  - Events (Very very Important)
+  
+    ### References
+
+    - [x] [Start with this](https://youtu.be/HcOc7P5BMi4?si=95-Xq5xZcFz_Vjmmhttps://youtu.be/yfoY53QXEnI?si=cxI-JHasqBOGQBpB)  
+
+    - [x] [Flex Box CSS](https://youtu.be/HD13eq_Pmp8?si=l3Tsks3XwJE7xocchttps://youtu.be/phWxA89Dy94?si=ZHidjHt8Z8-GU6nO)
+
+    - [x] [Grid CSS](https://youtu.be/EiNiSFIPIQE?si=ljGhZhbZF6tjFm1H)
+
+    * [x] [Position](https://youtu.be/fNcJuPIZ2WE?si=4CLxX8-Nb98E3eQNhttps://youtu.be/YEmdHbQBCSQ?si=VCs6g36lIvABdwRv)
+
+    - [x] [Animations (Advanced)](https://youtu.be/SgmNxE9lWcY?si=XLm0kgCvzx2BuN1z)
+
+    * [] [Flex Box ](https://youtu.be/wsTv9y931o8?si=5nZcUOGPOQ4fYYu9)
+
+  ---
 
 ### Tools:  
 - Code Editors (e.g., VS Code)  
